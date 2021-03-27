@@ -1,7 +1,3 @@
 "file See" 
-for now this file is being tracked.
-because it was added to the staging area.
-the staging area is the place where we work
-on our files before committing them.
-
+let's see now what happens with file_C
 
